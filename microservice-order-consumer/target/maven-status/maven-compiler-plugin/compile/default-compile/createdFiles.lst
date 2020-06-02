@@ -1,0 +1,3 @@
+com\itcodai\springcloud\controller\OrderConsumerController.class
+com\itcodai\springcloud\config\RestTmplateConfig.class
+com\itcodai\springcloud\OrderConsumer.class

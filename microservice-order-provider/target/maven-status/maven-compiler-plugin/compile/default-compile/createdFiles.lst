@@ -1,0 +1,5 @@
+com\itcodai\springcloud\dao\OrderMapper.class
+com\itcodai\springcloud\service\OrderService.class
+com\itcodai\springcloud\service\impl\OrderServiceImpl.class
+com\itcodai\springcloud\controller\OrderProviderController.class
+com\itcodai\springcloud\OrderProvider.class
